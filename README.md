@@ -3,9 +3,11 @@ TypeScript playground
 
 # development environment
 ```
-RubyMine 2023.3.3
-Build #RM-233.14015.117, built on January 26, 2024
+WebStorm 2023.3.3
+Build #WS-233.14015.89, built on January 23, 2024
 ```
+
+https://github.com/LeoAndo/typescript-training/blob/main/hello_world/package.json#L15<br>
 ```
-ruby 2.6.10p210 (2022-04-12 revision 67958) [universal.x86_64-darwin23]
+typescript version: 5.3.3
 ```
