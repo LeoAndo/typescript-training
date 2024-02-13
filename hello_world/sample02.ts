@@ -5,7 +5,7 @@ console.log(nums); // [ 10, 20, 30 ]
 console.log(strs); // [ 'foo', 'bar', 'hoge' ]
 
 // 配列のコピー (参照)
-var nums2 = nums; // numsと同じオブジェクトを参照
+let nums2 = nums; // numsと同じオブジェクトを参照
 nums2[0] = 99;
 console.log(nums); // [ 99, 20, 30 ]
 
