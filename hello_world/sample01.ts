@@ -2,7 +2,7 @@ import { User } from './user'; // 外部モジュールのimport
 
 // ログ出力
 const greeting = 'Hello, world!'
-console.log(greeting)
+console.log(greeting) // Hello, world!
 
 // テンプレート文字列
 const word: string = "TypeScript";
